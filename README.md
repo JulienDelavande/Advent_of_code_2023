@@ -14,12 +14,12 @@ Here's how I'm doing so far:
 - [x] Day 3: Puzzle 2
 - [x] Day 4: Puzzle 1
 - [x] Day 4: Puzzle 2
-- [ ] Day 5: Puzzle 1
-- [ ] Day 5: Puzzle 2
-- [ ] Day 6: Puzzle 1
-- [ ] Day 6: Puzzle 2
-- [ ] Day 7: Puzzle 1
-- [ ] Day 7: Puzzle 2
+- [x] Day 5: Puzzle 1
+- [x] Day 5: Puzzle 2
+- [x] Day 6: Puzzle 1
+- [x] Day 6: Puzzle 2
+- [x] Day 7: Puzzle 1
+- [x] Day 7: Puzzle 2
 - [ ] Day 8: Puzzle 1
 - [ ] Day 8: Puzzle 2
 - [ ] Day 9: Puzzle 1
